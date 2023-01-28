@@ -1,0 +1,11 @@
+{
+  "name": "hevc-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zalishchuk/fmp4-ts-hls-demo.git",
+  "author": "Alexander <zalishchuk.me@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo \"Building...\""
+  }
+}
